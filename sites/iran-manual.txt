@@ -1,0 +1,11 @@
+# Iranian services on non-.ir domains, added by hand.
+# Not from Tranco - say so when you describe the dataset.
+digikala.com
+aparat.com
+torob.com
+basalam.com
+zoomit.ir
+varzesh3.com
+ayandebank.com
+enbank.net
+cafebazaar.ir

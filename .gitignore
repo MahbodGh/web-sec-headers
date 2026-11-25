@@ -1,0 +1,24 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Raw per-domain records: large, and the CSVs carry the same data.
+results/*.jsonl
+
+# Re-downloadable with fetch_tranco.py / build_iran_list.py
+results/tranco-top1m.zip
+sites/tranco.txt
+
+# Superseded by the generated lists
+sites/iran-seed-manual.txt
+
+# Private working notes - not for publication
+outreach/
+NOTES.fa.md
+
+# Tooling scratch
+.omc/
+
+# Government sector: aggregate only (see prepare_release.py)
+sites/iran-gov.txt

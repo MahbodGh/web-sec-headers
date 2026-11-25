@@ -1,0 +1,18 @@
+# Iranian domains from the Tranco top-1M list, downloaded 2026-11-25
+# source: results\tranco-top1m.zip
+# selection: every domain whose TLD is .ir, in Tranco rank order
+# kept: top 3154 of 3154 found
+# RECORD THE TRANCO LIST ID IN YOUR NOTES - the list changes daily.
+# sector: commercial second level
+#
+# tranco_rank  domain
+mahanair.co.ir
+mic.co.ir
+ime.co.ir
+neda.net.ir
+holoo.co.ir
+mihan.co.ir
+pna.co.ir
+dpi.net.ir
+wintech.co.ir
+pep.co.ir

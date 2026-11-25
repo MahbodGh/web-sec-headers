@@ -1,0 +1,13 @@
+# Iranian domains from the Tranco top-1M list, downloaded 2026-11-25
+# source: results\tranco-top1m.zip
+# selection: every domain whose TLD is .ir, in Tranco rank order
+# kept: top 3154 of 3154 found
+# RECORD THE TRANCO LIST ID IN YOUR NOTES - the list changes daily.
+# sector: non-profit
+#
+# tranco_rank  domain
+amar.org.ir
+cgie.org.ir
+tavanir.org.ir
+audit.org.ir
+sci.org.ir
